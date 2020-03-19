@@ -74,7 +74,7 @@ EOBUNDLES
 ## Usage
 
 Command | Description
----------------------
+--- | ---
 `yt *search terms*` | Plays first result as video
 `yta *search terms*` | Plays first result as audio-only (only streams audio data if possible)
 
