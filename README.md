@@ -92,4 +92,4 @@ or fix it yourself and create a pull request.
 ## Idea
 
 The code for the command `yta` was taken originally from the [mpv Arch Wiki page](https://wiki.archlinux.org/index.php/Mpv#youtube-dl_audio_with_search).
-Further the command `yt` was added and and is now allowed to be imported by others easily.
+Further the command `yt` was added and the commands can now be imported by others easily.
